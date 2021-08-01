@@ -5,7 +5,7 @@ Eyes wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/Eyes/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/Eyes/raw/main/install.sh)"
 ```
   
 Manual install:
